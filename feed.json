@@ -5,11 +5,23 @@
     "home_page_url": "https://dahara2012.github.io/dgtl",
     "feed_url": "https://dahara2012.github.io/dgtl/feed.json",
     "user_comment": "",
-    "icon": "https://dahara2012.github.io/dgtl/media/website/logo.png",
+    "icon": "https://dahara2012.github.io/dgtl/media/website/logo-gap-2.png",
     "author": {
         "name": "Maximilian Müller"
     },
     "items": [
+        {
+            "id": "https://dahara2012.github.io/dgtl/standings/",
+            "url": "https://dahara2012.github.io/dgtl/standings/",
+            "title": "Standings",
+            "author": {
+                "name": "Maximilian Müller"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-01T14:20:51+02:00",
+            "date_modified": "2022-05-01T14:20:51+02:00"
+        },
         {
             "id": "https://dahara2012.github.io/dgtl/strafpunktekonten/",
             "url": "https://dahara2012.github.io/dgtl/strafpunktekonten/",

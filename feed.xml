@@ -3,12 +3,24 @@
     <title>DGTL</title>
     <link href="https://dahara2012.github.io/dgtl/feed.xml" rel="self" />
     <link href="https://dahara2012.github.io/dgtl" />
-    <updated>2022-05-01T13:44:12+02:00</updated>
+    <updated>2022-05-01T14:20:51+02:00</updated>
     <author>
         <name>Maximilian Müller</name>
     </author>
     <id>https://dahara2012.github.io/dgtl</id>
 
+    <entry>
+        <title>Standings</title>
+        <author>
+            <name>Maximilian Müller</name>
+        </author>
+        <link href="https://dahara2012.github.io/dgtl/standings/"/>
+        <id>https://dahara2012.github.io/dgtl/standings/</id>
+
+        <updated>2022-05-01T14:20:51+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Strafpunktekonten</title>
         <author>
