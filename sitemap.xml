@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://dahara2012.github.io/dgtl/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://dahara2012.github.io/dgtl/</loc>
+</url>
+<url>
+<loc>https://dahara2012.github.io/dgtl/anmeldung/</loc>
+<lastmod>2022-05-01T12:47:44+02:00</lastmod>
+</url>
+<url>
+<loc>https://dahara2012.github.io/dgtl/archiv/</loc>
+<lastmod>2022-05-01T12:26:11+02:00</lastmod>
+</url>
+<url>
+<loc>https://dahara2012.github.io/dgtl/rennkalender/</loc>
+<lastmod>2022-05-01T12:43:38+02:00</lastmod>
+</url>
+<url>
+<loc>https://dahara2012.github.io/dgtl/serieninfos/</loc>
+<lastmod>2022-05-01T12:41:07+02:00</lastmod>
+</url>
+<url>
+<loc>https://dahara2012.github.io/dgtl/standings-season-1/</loc>
+<lastmod>2022-05-01T12:36:29+02:00</lastmod>
+</url>
+<url>
+<loc>https://dahara2012.github.io/dgtl/standings-season-2/</loc>
+<lastmod>2022-05-01T12:36:34+02:00</lastmod>
+</url>
+<url>
+<loc>https://dahara2012.github.io/dgtl/strafpunktekonten/</loc>
+<lastmod>2022-05-01T13:44:12+02:00</lastmod>
+</url>
+</urlset>
